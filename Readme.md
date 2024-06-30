@@ -61,7 +61,7 @@ curl https://install.fuel.network | sh
 ![image](https://github.com/mztacat/Fuel-Contract-Deployment/assets/31314340/1581ad4f-f1cb-4303-a037-b9579e6f087d)
 
 ```
-source /root/.bashrc
+export PATH="${HOME}/.fuelup/bin:${PATH}"
 ```
 
 
